@@ -1,0 +1,1 @@
+# A2A-Digital-Commit-messages-Rule
