@@ -2,7 +2,7 @@
 
 ```bash
 
-feat: The new feature you're adding to a particular application
+feat: The new feature you are adding to a particular application
 
 fix: A bug fix
 
